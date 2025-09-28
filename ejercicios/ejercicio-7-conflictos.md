@@ -19,7 +19,7 @@ Aprender a resolver conflictos que pueden ocurrir cuando múltiples personas tra
 3. Haz commit de estos cambios:
    ```bash
    git add mi-proyecto.md
-   git commit -m "Añadir información en rama feature"
+   git commit -m "git "
    ```
 
 4. Cambia a la rama main:
